@@ -53,7 +53,8 @@ At the moment my Macbook but not my Windows stationary can manage reading my 1.2
 Implement _"A Divide and Conquer Bidirectional Search: First Results"_ by Korf (1999)
 https://www.semanticscholar.org/paper/A-Divide-and-Conquer-Bidirectional-Search%3A-First-Korf/c250bd477f966b15b0296ab7c2e01a4a8928c279
 if results are correct increase in time only slight, great decrease in temporary memory use.
-Also, there would 
+![Graph 1](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/c250bd477f966b15b0296ab7c2e01a4a8928c279/3-Figure1-1.png)
+Format: ![Alt Text](url)
 
 ### 2. Internet access
 Not having to access the file on secondary storage will make it easier for other users
