@@ -69,5 +69,5 @@ as well as a fun game for guessing the connection-level of different actors.
 
 
 
-[image1]: Figure0.png
+[image1]: (Figure0.png)
 
