@@ -72,5 +72,4 @@ as well as a fun game for guessing the connection-level of different actors.
 
 
 
-------REFERENCES ETC-------------------------------
-[image1]: https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/c250bd477f966b15b0296ab7c2e01a4a8928c279/3-Figure1-1.png  "Graph of memory complexity"
+[image1]: https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/c250bd477f966b15b0296ab7c2e01a4a8928c279/3-Figure1-1.png "Graph of memory complexity"
