@@ -24,7 +24,6 @@ V2 | 1 min creating hash-map <actors,<movies>>, 2 min graph-search
 V3 | 1 min creating hash-map <actors,<movies>>, 24 *seconds* graph-search
   
 
-
 A Divide and Conquer Bidirectional Search: First Results
 
 ### V1
