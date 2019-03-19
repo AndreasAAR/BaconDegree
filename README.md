@@ -54,7 +54,7 @@ Implement _"A Divide and Conquer Bidirectional Search: First Results"_ by Korf (
 https://www.semanticscholar.org/paper/A-Divide-and-Conquer-Bidirectional-Search%3A-First-Korf/c250bd477f966b15b0296ab7c2e01a4a8928c279
 if results are correct increase in time only slight, great decrease in temporary memory use.
 
-![Graph Bi-Directional Divide and Conquer][image1]
+![Graph Bi-Directional Divide and Conquer][image1] (Image credits go to Korf 1999). 
 
 ### 2. Internet access
 Not having to access the file on secondary storage will make it easier for other users
