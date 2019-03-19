@@ -53,7 +53,12 @@ At the moment my Macbook but not my Windows stationary can manage reading my 1.2
 Implement _"A Divide and Conquer Bidirectional Search: First Results"_ by Korf (1999)
 https://www.semanticscholar.org/paper/A-Divide-and-Conquer-Bidirectional-Search%3A-First-Korf/c250bd477f966b15b0296ab7c2e01a4a8928c279
 if results are correct increase in time only slight, great decrease in temporary memory use.
-![Alt text](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/c250bd477f966b15b0296ab7c2e01a4a8928c279/3-Figure1-1.png)
+![Graph of memory complexity](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/c250bd477f966b15b0296ab7c2e01a4a8928c279/3-Figure1-1.png)
+
+![Alt text][image 1]
+Where “id” is the name of a defined image reference. Image references are defined using syntax identical to link references:
+
+
 
 
 ### 2. Internet access
@@ -66,3 +71,8 @@ The data-set used is typical for fun endeavours, but it could be interesting to 
 app measuring algorithmics efficiencies too "run algo 1, memory used X, time passed Y". 
 We will see, maybe it can be an educational tool(run in advanced mode),
 as well as a fun game for guessing the connection-level of different actors.
+
+
+
+------REFERENCES ETC-------------------------------
+[image 1]: https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/c250bd477f966b15b0296ab7c2e01a4a8928c279/3-Figure1-1.png  "Graph of memory complexity"
