@@ -57,7 +57,7 @@ if results are correct increase in time only slight, great decrease in temporary
 ![Graph Bi-Directional Divide and Conquer][image1] (Image credits go to Korf 1999). 
 
 <p>
-    <img src="https://github.com/AndreasAAR/BaconDegree/blob/master/Figure0.png" width="400" height="300" />
+    <img src="https://github.com/AndreasAAR/BaconDegree/blob/master/Figure0.png"  />
 </p>
 
 ### 2. Internet access
