@@ -17,6 +17,16 @@ but this was a fun school-exercise that just expanded more than I thought when I
 
 ## Progress
 
+Version | Run-time
+------------ | -------------
+V1| Ca 3 hours
+V2 | 1 min creating hash-map <actors,<movies>>, 2 min graph-search
+V3 | 1 min creating hash-map <actors,<movies>>, 24 *seconds* graph-search
+  
+
+
+A Divide and Conquer Bidirectional Search: First Results
+
 ### V1
 Used a very innefficient 
 "Build-Graph first"-technique.
@@ -24,13 +34,15 @@ It took it about 3 hours to connect a second-degree Bacon Connection.
 
 ### V2
 Builds the graph as it searches for connected actors.
-Maps about 30%-50% of actors each run. 
+Maps only about 30%-50% of actors each run until connection/path is found.
+Also, much quicker than V1, needs about 2-4 minutes to find a connection.
 
 ### V3
 Uses a Bi-Directional search that expands nodes both from goal, 
 and from 
 The presentation of connected actors is a little messy, but its a lot quicker, about 75% earlier running time.
-From ca 2 min to find a 4-degree bacon connection, to 24 seconds. 
+From ca 2 min graph-expansion to find a 4-degree bacon connection in V2, to 24 seconds graph-expansion.
+However, the reading time of the file, and creating an internal list in the temporary memory still takes about a minute.
 
 ## Future Improvements
 
@@ -38,9 +50,10 @@ From ca 2 min to find a 4-degree bacon connection, to 24 seconds.
 Implement writing graph directly from file, making runnable on weaker processors.
 Both "wave-fronts" of Bi-Directional search expanded while reading.
 At the moment my Macbook but not my Windows stationary can manage reading my 1.2gig "actors.list" file.
-Implement "Bi-Directional Divide and Conquer by Korf (1999)
+Implement _"A Divide and Conquer Bidirectional Search: First Results"_ by Korf (1999)
 https://www.semanticscholar.org/paper/A-Divide-and-Conquer-Bidirectional-Search%3A-First-Korf/c250bd477f966b15b0296ab7c2e01a4a8928c279
 if results are correct increase in time only slight, great decrease in temporary memory use.
+Also, there would 
 
 ### 2. Internet access
 Not having to access the file on secondary storage will make it easier for other users
