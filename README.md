@@ -69,6 +69,8 @@ The data-set used is typical for fun endeavours, but it could be interesting to 
 app measuring algorithmics efficiencies too "run algo 1, memory used X, time passed Y". 
 We will see, maybe it can be an educational tool(run in advanced mode),
 as well as a fun game for guessing the connection-level of different actors.
+#### 3.2 Extracting usage data
+Extracting the memory used and creating a graph with R java would be neat.
 
 
 
