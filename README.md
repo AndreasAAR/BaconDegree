@@ -59,6 +59,10 @@ if results are correct increase in time only slight, great decrease in temporary
     <img src="https://github.com/AndreasAAR/BaconDegree/blob/master/Figure0.png"  />
 </p>
 
+Another ad-hoc idea is to create a table of movie frequency first.
+Actors with a high-mean movie frequency, movies that are frequent in the set,
+will likely have more connections and are prioritized. 
+
 ### 2. Internet access
 Not having to access the file on secondary storage will make it easier for other users
 to use, and to run the program on any platform.
