@@ -3,6 +3,8 @@ The parser and reader-class is from my teacher at uni, Henrik Bergström.
 Uses files and formats from:
 ftp://ftp.fu-berlin.de/pub/misc/movies/database
 
+The task was performed with classmate Arpad Szell
+
 ### Purpouse
 Optimize reading large text files (1gig plus),
 and create a graph search connection between two nodes.
